@@ -13,7 +13,9 @@ Write filesystem to USB flash: dd if=./nslu2.wheezy_fs.image of=/dev/sdb
 Settings:
 
 Network: dhcp
+
 User: root; password: root
+
 User: pi; password: raspberry
 
 recomended to use disk UUID:
