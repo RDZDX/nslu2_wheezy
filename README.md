@@ -12,7 +12,7 @@ Write filesystem to USB flash:
 
 dd if=./nslu2.wheezy_fs.image of=/dev/sdb
 
-Settings:
+Current settings:
 
 Network: dhcp
 
