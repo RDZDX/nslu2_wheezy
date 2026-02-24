@@ -18,4 +18,5 @@ User: pi; password: raspberry
 
 recomended to use disk UUID:
 edit /etc/fstab
+
 update-initramfs -u
