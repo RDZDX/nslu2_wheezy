@@ -25,3 +25,5 @@ recomended to use disk UUID:
  edit /etc/fstab
  
  update-initramfs -u
+
+ ![alt text](https://rdzdx.github.io/nslu2_wheezy/picture.jpg)
