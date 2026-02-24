@@ -4,7 +4,7 @@ Debian Wheezy on NSLU2 with 4GB USB flash
 Download and extract files.
 
 From other Linux system:
-Write "bios" by network to NSLU internal 8MB flash:
+Write NSLU2 "bios" by network to NSLU internal 8MB flash:
  1. Start recovery mode on NSLU2 (with reset button)
  2. Flash "bios": upslug2 nslu2.wheezy_flash.image
 Write filesystem to USB flash: dd if=./nslu2.wheezy_fs.image of=/dev/sdb
