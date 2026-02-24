@@ -1,7 +1,7 @@
 # nslu2_wheezy
 Debian Wheezy on NSLU2 with 4GB USB flash
 
-Download and extract files.
+Download and extract files to computer.
 
 From other Linux system:
 Write NSLU2 "bios" by network to NSLU internal 8MB flash:
