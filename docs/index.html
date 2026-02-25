@@ -5,6 +5,52 @@
   <p>Debian Wheezy on NSLU2 with 4GB USB flash drive.
   </p>
   <p>
+</p>
+  Download and extract files to computer.
+<br>
+From other Linux system: Write NSLU2 firmware image by network to NSLU2 internal 8MB flash:
+<br>
+Start recovery mode on NSLU2 (with reset button)
+  <br>
+Flash firmware: upslug2 nslu2.wheezy_flash.image
+    </br>
+  <br>
+Write filesystem to USB flash:
+    </br>
+  <br>
+
+dd if=./nslu2.wheezy_fs.image of=/dev/sdb
+    </br>
+  <br>
+
+Current settings:
+    </br>
+  <br>
+
+Network: dhcp
+    </br>
+  <br>
+
+User: root; password: root
+    </br>
+  <br>
+
+User: pi; password: raspberry
+    </br>
+  <br>
+
+recomended to change from /dev/sda to disk UUID:
+    </br>
+  <br>
+
+edit /etc/fstab
+    </br>
+  <br>
+
+update-initramfs -u
+  </br>
+  <p>
+    
   <img src="picture.jpg" alt="picture.jpg">
       </p>
   
