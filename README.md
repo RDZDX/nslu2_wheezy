@@ -1,5 +1,5 @@
 # nslu2_wheezy
-Debian Wheezy on NSLU2 with 4GB USB flash drive (Cleaned some big packages like Exim, Apache2, etc)
+Debian Wheezy on NSLU2 with 4GB USB flash drive (cleaned some big packages like Exim, Apache2, etc).
 
 Download and extract files to computer.
 
