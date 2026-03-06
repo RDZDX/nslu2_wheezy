@@ -8,7 +8,7 @@ Write NSLU2 firmware image by network to NSLU2 internal 8MB flash:
  1. Start recovery mode on NSLU2 (power on NSLU2 with hold reset button ~10sec )
  2. Flash firmware: upslug2 -i nslu2.wheezy_flash.image  (or with Upgrade_207_XP from Windows XP)
     
-Write filesystem to USB flash:
+On other Linux system attach 4GB or bigger USB flash drive and write filesystem to it:
 
 dd if=./nslu2.wheezy_fs.image of=/dev/sdb
 
