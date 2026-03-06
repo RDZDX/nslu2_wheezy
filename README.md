@@ -27,6 +27,6 @@ and
 update-initramfs -u
 
 
-NSLU2_V23R63.zip - original Linksys firmare if you want restore to bulid it. (Dont use EraseAll tool !!! Flash firmware with upslug2 or Upgrade_207_XP)
+NSLU2_V23R63.zip - original Linksys firmare if you want restore to build it. (Dont use EraseAll tool !!! Flash firmware with upslug2 or Upgrade_207_XP)
 
 ![alt text](https://rdzdx.github.io/nslu2_wheezy/picture.jpg)
