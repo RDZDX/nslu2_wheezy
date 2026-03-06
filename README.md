@@ -20,7 +20,7 @@ User: root; password: root
 
 User: pi; password: raspberry
 
-recomended to change from /dev/sda to disk UUID:
+recomended to change fstab from /dev/sda to disk UUID:
 
 edit /etc/fstab
 and 
