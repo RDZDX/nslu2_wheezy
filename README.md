@@ -5,7 +5,7 @@ Download and extract files to computer.
 
 From other Linux system:
 Write NSLU2 firmware image by network to NSLU2 internal 8MB flash:
- 1. Start recovery mode on NSLU2 (with reset button)
+ 1. Start recovery mode on NSLU2 (power on NSLU2 with hold reset button ~10sec )
  2. Flash firmware: upslug2 -i nslu2.wheezy_flash.image  (or with Upgrade_207_XP from Windows XP)
     
 Write filesystem to USB flash:
