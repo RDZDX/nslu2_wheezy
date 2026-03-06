@@ -22,8 +22,11 @@ User: pi; password: raspberry
 
 recomended to change from /dev/sda to disk UUID:
 
- edit /etc/fstab
- 
- update-initramfs -u
+edit /etc/fstab
+and 
+update-initramfs -u
 
- ![alt text](https://rdzdx.github.io/nslu2_wheezy/picture.jpg)
+
+NSLU2_V23R63.zip - original Linksys firmare if you want restore to bulid it.
+
+![alt text](https://rdzdx.github.io/nslu2_wheezy/picture.jpg)
