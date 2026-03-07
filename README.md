@@ -12,6 +12,8 @@ On other Linux system attach 4GB or bigger USB flash drive and write filesystem 
 
 dd if=./nslu2.wheezy_fs.image of=/dev/sdb
 
+You can write filesystem to USB flash drive from Windows with SUSE_Studio_Image_Writer.
+
 Current settings:
 
 Network: dhcp
